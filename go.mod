@@ -1,4 +1,4 @@
-module genghongjie/glog
+module github.com/genghongjie/glog
 
 go 1.16
 
